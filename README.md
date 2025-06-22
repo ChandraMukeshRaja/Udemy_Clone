@@ -14,5 +14,5 @@ Technologies Used 💻
 
 Live Demo 🌐
 
-Check out the live demo [here](link to your live demo) 👀.
+Check out the live demo [https://chandramukeshraja.github.io/Udemy_Clone/](link to your live demo) 👀.
 
